@@ -1,4 +1,5 @@
 
+set -o vi
 alias ll='ls -l'
 alias vi="vim"
 
