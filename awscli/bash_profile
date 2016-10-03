@@ -2,7 +2,7 @@
 set -o vi
 alias ll='ls -l'
 alias vi="vim"
-PATH=${PATH}:/data
+PATH=${PATH}:/data/scripts
 
 # ANSI color codes
 RS="\[\033[0m\]"    # reset
